@@ -4,3 +4,4 @@ __pycache__/
 dataset_path
 ckpt
 GraphCL/data.parquet
+*.pt
